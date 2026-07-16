@@ -16,4 +16,5 @@
 
 ## Out of scope (this week)
 
-- _What you are intentionally not doing._
+- Zip code is not getting validated
+- No Reset button is published
