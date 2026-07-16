@@ -4,7 +4,7 @@
 
 ## Goal
 
-> _One sentence here._
+> Assemble a responsive Evergreen Quote page, wire the quote logic, and prepare the repo, CI evidence, and leadership artifacts for review.
 
 ## "Done" looks like
 
