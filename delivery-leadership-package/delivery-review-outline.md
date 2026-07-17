@@ -4,31 +4,42 @@
 
 ## Slide 1 — Delivery goal & did we hit it?
 
-- Goal (one sentence): Deliver a responsive Evergreen Quote page with responsive layout, working quote calculation logic, themed styling, and successful CI Run
+- Goal (one sentence): Deliver a responsive Evergreen Quote page with responsive layout, working quote calculation logic, themed styling, and successful CI Run.
+- Provide users with premium calculations for various products like Auto, Home
+Outcomes:
+-	Evergreen Insurance page is deployed and ready for user reviews
+-	All test cases are passed to provide better user experience
+
 - Hit? ☐ Yes  
 - One-line "why" either way.
 
 ## Slide 2 — What shipped
 
-- Screenshot of assembled Evergreen Quote app on `main`.
+-Generating Quotes for the users with premium calculations
+-Github page deployment  along with CI/CD pipeline
+
 - Link to the merged PR. https://github.com/asc1-student16/wa3855-cap-phase-1-capstone-project-leaders/pull/7
 - Link to the green CI run.https://github.com/asc1-student16/wa3855-cap-phase-1-capstone-project-leaders/actions/runs/29520763833
 
 ## Slide 3 — Two key decisions
 
-- **Decision 1:** Testimonials:Legal has approved the top 3 testimonials. Include these testimonials that is exactly the way they are approved to avoid any complications.
-- **Decision 2:** Exclude "Compare plans" link in the navigation as this came as last minute story in the sprint. If there is capacity, pull it into the sprint else prioritize it for the next sprint.
+- **Decision 1:** Focus on MVP and work through completing the instructions provided.
+ **Decision 2:** Exclude "Compare plans" link in the navigation as this came as last minute story in the sprint. If there is capacity, pull it into the sprint else prioritize it for the next sprint.
 - (Both should be in `decision-memo.md`.)
 
 ## Slide 4 — Risks & injects
 
 - Top risk we tracked: _from risk-register.md._
-- Inject #1 (Tue): Medium: Including testimonials in the release. Legal has approved them without getting the signed customer release forms. We moved forward with the assumption that customers will provide signed release forms with the approved verbiege from legal. We are confident that legal team will get these forms signed without any issue. 
-- Inject #2 (Wed): High: We treated the quote anomaly and the CI failure as a delivery risk and paused any further release advancement until the root cause was understood. The missing asset file indicates the build is not in a releasable state, and the invalid premium suggests the current renters rate configuration may be incorrect or incomplete. We prioritized investigation of the renters rate logic and the generated asset pipeline before making additional changes.
+- 1.Logging of user activity is not implemented.
+2.	No page security has been implemented
+- Inject #1 (Tue): Medium: Including testimonials in the release as simple place holders rather than the actual testimonials.
+- Inject #2 (Wed): High: We treated the quote anomaly and the CI failure as a delivery risk and paused any further release advancement until the root cause was understood. The missing asset file  indicates the build is not in a releasable state, and the invalid premium suggests the current renters rate configuration may be incorrect or incomplete. We prioritized investigation of the renters rate logic and the generated asset pipeline before making additional changes.
+
 ## Slide 5 — What I'd do differently next round
 
-- I would like to continue meeting the sprint goals and at the same time any additional work that is NOT committed as a part of sprint goal should be considered as a less priority as long it is a blocker or critical production issue.
-- Testing coverage & UI: Want to get signoff from the UI team on the UI Wireframes before working as well as Would like to include extensive testing including the UI components and field validations.
+- - I would like to continue meeting the sprint goals and at the same time any additional work that is NOT committed as a part of sprint goal should be considered as a less priority as long it is a blocker or critical production issue.
+- Testing coverage & UI: Want to get signoff from the UI team on the UI Wireframes before working as well as would like to include extensive testing including the UI components and field validations. Include automated testing.
+
 
 ## Q&A prep — likely questions
 
