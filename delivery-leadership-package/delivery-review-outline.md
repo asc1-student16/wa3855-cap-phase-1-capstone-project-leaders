@@ -34,4 +34,4 @@
 
 - _e.g., "Why didn't you ship X?"_I have not shipped field validations. Example: Zip code should give an error message if the value is less than 5 digits. There are no requirements mentioned for the field validaions.
 - _e.g., "If you ran this week again with 3 engineers, what's the first thing you'd ask them?"_
-What is the current highest-priority risk or blocker that you see could prevent us from shipping a clean,Evergreen Quote delivery this week. If we need to trade scope to protect the deadline, what can we safely defer without hurting the main delivery objective?
+What is the current highest-priority risk or blocker that you see could prevent us from shipping a clean,Evergreen Quote delivery this week. If we need to trade scope to protect the deadline and achieving sprint goal, what can we safely defer without hurting the main delivery objective?
