@@ -4,14 +4,13 @@
 
 ## Goal
 
-> Assemble a responsive Evergreen Quote page, wire the quote logic, and prepare the repo, CI evidence, and leadership artifacts for review.
-
+> Deliver a responsive Evergreen Quote page with responsive layout, working quote calculation logic, themed styling, and successful CI Run
 ## "Done" looks like
 
 - App on `main` is themed and responsive.
 - `Calculate Premium` returns a real number from the provided snippet.
 - CI run on the merge commit is **green**.
-- A reviewed PR is merged, branch deleted.
+- A reviewed PR is merged
 - `delivery-leadership-package/` is complete and committed.
 
 ## Out of scope (this week)
