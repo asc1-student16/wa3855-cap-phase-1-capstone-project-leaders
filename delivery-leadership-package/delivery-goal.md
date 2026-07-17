@@ -10,7 +10,7 @@
 - App on `main` is themed and responsive.
 - `Calculate Premium` returns a real number from the provided snippet.
 - CI run on the merge commit is **green**.
-- A reviewed PR is merged, branch deleted.
+- A reviewed PR is merged
 - `delivery-leadership-package/` is complete and committed.
 
 ## Out of scope (this week)
